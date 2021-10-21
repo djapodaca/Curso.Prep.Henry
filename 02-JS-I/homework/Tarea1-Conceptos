@@ -1,0 +1,6 @@
+Variable: almacenan cualquier tipo de datos como numeros, decimales, booleanos, textos etc.
+String: Es un tipo de dato que almacena texto y caracteres.
+Funciones: Guardan metodos o operaciones para despues invocarlos estos aceptan argumento,  parametros para retornar alg√n valor 
+Declaraciones: Son controles de flujo de los datos, desido  que sebe de ejecutar con los datos almacenados, ya sea por condiciones, o argumendot asignado.
+Valores Boleanno: Estos solo puede tomar dos caminos, activado o desactivado, 0 o 1. Falso o verdadero. 
+
