@@ -1,0 +1,6 @@
+FOR: Es un bucle que te ayuda a repetir intrucciones el numero de veces indicada en su condicion.
+&& | AND: Operador L√gico para evaluar dos o mas expresiones, en este operador l√gico si dos o mas expresiones son evaluadas deber√° ser TRUE para ejecurter su bloque de c√digo dentro.
+|| | OR: Operador l√gico, yo lo llamo doble palito y en programaci√n es el O,y se utiliza para evaluar dos expresiones o mas.En este operador con que uno sea TRUE, se ejecutara el bloque de codigo detro
+!| | NOT: Es un operador de negaci√n al resultado, condici√n y comparaci√n de una expresi√n o  valor.
+
+
